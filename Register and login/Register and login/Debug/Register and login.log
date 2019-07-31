@@ -1,0 +1,26 @@
+﻿Build started 31/7/2562 21:50:47.
+     1>Project "C:\work c++\Register and login\Register and login\Register and login.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Register and login.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Register and login.cpp"
+         Register and login.cpp
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\work c++\Register and login\Debug\Register and login.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Register and login.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\work c++\Register and login\Debug\Register and login.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\work c++\Register and login\Debug\Register and login.lib" /MACHINE:X86 "Debug\Register and login.exe.embed.manifest.res"
+         "Debug\Register and login.obj"
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Register and login.exe.embed.manifest" /manifest "Debug\Register and login.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Register and login.vcxproj -> C:\work c++\Register and login\Debug\Register and login.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Register and login.unsuccessfulbuild".
+         Touching "Debug\Register and login.lastbuildstate".
+     1>Done Building Project "C:\work c++\Register and login\Register and login\Register and login.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.84
